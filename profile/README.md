@@ -4,6 +4,7 @@
 - Create a new file docker-compose.yml
 - Copy the code and below and paste it into the file your just created.
 - Start a new terminal into folder and run a this comand ```docker-compose-up``` or ```docker-compose-up -D``` to don't show the logs
+- Clone all repositories in this folder
 - Create DB's references for each microservices
 
 ### Databases
