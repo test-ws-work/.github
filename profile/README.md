@@ -10,6 +10,7 @@
 ### Databases
 - ms_stores
 - ms_customers
+- ms_logists (but it is not necessary to create this, only run this comand ```npx prisma migrate dev```)
 
 ```version: "3"
 volumes: 
